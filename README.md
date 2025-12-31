@@ -10,14 +10,20 @@
 </p>
 
 ---
+<p align="center">
+  <a href="https://instagram.com/yashmohite_"><img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" width="26"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/yashmohite-ai"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="26"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:yashmohite.in@gmail.com"><img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" width="26"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME"><img src="https://img.icons8.com/ios-filled/50/ffffff/telegram-app.png" width="26"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/91XXXXXXXXXX"><img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp.png" width="26"/></a>
+</p>
 
-## 🧠 About Me
+<h3 align="center">🚧 Currently Building</h3>
+<p align="center">
+  Small AI and web-based tools while strengthening ML and system fundamentals.
+</p>
 
-```txt
-CSE (AIML) student with a diploma foundation in Electronics & Computer.
-
-I build practical systems across AI, web, and hardware — focusing not just
-on writing code, but on understanding how technology works end to end.
-
-Currently exploring artificial intelligence, machine learning, and web
-technologies, with growing curiosity toward cybersecurity and system design.
