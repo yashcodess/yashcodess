@@ -10,33 +10,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=600&lines=CSE+(AIML)+Student;Electronics+%26+Computer+Background;Building+Practical+Tech+Systems;Making+Ideas+Executable" alt="Typing SVG" />
 </p>
 
----
+
 
 <p align="center">
-  <a href="https://instagram.com/yashmohite_"><img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" width="26"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/yashmohite-ai"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="26"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:yashmohite.in@gmail.com"><img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" width="26"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yashcodess"><img src="https://img.shields.io/badge/Education-B.Tech%20AIML-7F00FF?style=for-the-badge&logo=education&logoColor=white" alt="Education" /></a>
-  <a href="https://github.com/yashcodess"><img src="https://img.shields.io/badge/Location-India-00E5FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yashcodess"><img src="https://img.shields.io/badge/Portfolio-Click%20Here-e100ff?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/yashmohite-ai"><img src="https://img.shields.io/badge/LinkedIn-yashmohite--ai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" /></a>
-  <a href="mailto:yashmohite.in@gmail.com"><img src="https://img.shields.io/badge/Email-yashmohite.in%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button" /></a>
-  <a href="https://github.com/yashcodess"><img src="https://img.shields.io/badge/GitHub-yashcodess-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashcodess&color=violet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yashcodess&color=blueviolet&style=flat-square" />
   <img src="https://img.shields.io/github/followers/yashcodess?color=blueviolet&style=flat-square" alt="Followers" />
   <img src="https://img.shields.io/github/stars/yashcodess?color=indigo&style=flat-square" alt="Stars" />
 </p>
+
+---
 
 <h3 align="center">🚧 Currently Building</h3>
 <p align="center">
@@ -60,6 +42,10 @@ I believe in learning by building real-world projects and continuously improving
 **B.Tech in Artificial Intelligence and Machine Learning**  
 University of Mumbai  
 Expected Graduation: 2027
+
+**Diploma in Electronics and Computer Engineering**
+
+Fr. Agnel Polytechnic, Vashi, Navi Mumbai
 
 ---
 
@@ -92,15 +78,15 @@ Expected Graduation: 2027
 
 ---
 
-## 🧠 AI / ML Expertise
+## 🚀 Currently Exploring
 
-| Area | Current Focus |
-| :--- | :--- |
-| **Machine Learning** | Supervised Learning |
-| **Deep Learning** | Neural Networks |
-| **Computer Vision** | OpenCV Basics |
-| **Robotics** | Arduino Projects |
-| **Data Structures & Algorithms** | Java |
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,java,arduino" />
+</p>
+
+<p align="center">
+🤖 Machine Learning • 🧠 Deep Learning • 👁️ Computer Vision • 🤖 Robotics • 💻 DSA
+</p>
 
 ---
 
@@ -180,6 +166,7 @@ Java
 
 ---
 
+<!--
 ## 🏅 Certifications
 
 ### AWS
@@ -195,7 +182,7 @@ Java
 * [<img src="https://img.shields.io/badge/Cisco-CCNA%20Introduction%20to%20Networks-1EA0D8?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Network Badge" />](https://www.cisco.com/)
 
 ---
-
+-->
 ## 💻 Coding Profiles
 
 <p align="left">
@@ -231,7 +218,11 @@ Java
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yashcodess/yashcodess/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
+  <img alt="Snake Animation" src="assets/github-contribution-grid-snake.svg" />
+</picture>
 </p>
 
 ---
@@ -257,3 +248,4 @@ openTo:
   - Software Engineering Internships
   - AI/ML Projects
   - Open Source Contributions
+
