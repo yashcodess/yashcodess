@@ -3,7 +3,7 @@
 </p>
 
 <!-- HERO -->
-<h1 align="center">🚀 Building Practical AI & Software Systems</h1>
+<h1 align="center">🚀 Building AI Applications That Solve Real Problems</h1>
 <p align="center"><b>B.Tech AIML Student | Java & DSA Learner | Machine Learning Enthusiast | Robotics Builder</b></p>
 
 <p align="center">
